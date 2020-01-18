@@ -1,0 +1,18 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+web.derayah.com	TRUE	/wp-content/plugins	FALSE	1999999999	wordpress_c5218f1ce1b5d5317e6a3d08db7a213b	+
+web.derayah.com	TRUE	/wp-content/plugins	FALSE	1999999999	wordpress_sec_c5218f1ce1b5d5317e6a3d08db7a213b	+
+web.derayah.com	TRUE	/wp-admin	FALSE	1999999999	wordpress_c5218f1ce1b5d5317e6a3d08db7a213b	+
+web.derayah.com	TRUE	/wp-admin	FALSE	1999999999	wordpress_sec_c5218f1ce1b5d5317e6a3d08db7a213b	+
+www.derayah.com	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	jfsusw452yzkz24530x2hr45
+www.derayah.com	TRUE	/	FALSE	1999999999	DER80	!jAOHt9mtJnov4mSuKeCIxbJzd9oHY3ZshPG/boqUWKnP8raaVZ6c022BT0/Y4QceRWIu/I+Wd/Erhw==
+web.derayah.com	TRUE	/	FALSE	1999999999	qtrans_front_language	ar
+web.derayah.com	TRUE	/	FALSE	1999999999	wordpress_logged_in_c5218f1ce1b5d5317e6a3d08db7a213b	+
+web.derayah.com	TRUE	/	FALSE	1999999999	wp-settings-0	+
+web.derayah.com	TRUE	/	FALSE	1999999999	wp-settings-time-0	+
+web.derayah.com	TRUE	/	FALSE	1999999999	wordpress_c5218f1ce1b5d5317e6a3d08db7a213b	+
+web.derayah.com	TRUE	/	FALSE	1999999999	wordpress_sec_c5218f1ce1b5d5317e6a3d08db7a213b	+
+web.derayah.com	TRUE	/	FALSE	1999999999	wordpressuser_c5218f1ce1b5d5317e6a3d08db7a213b	+
+web.derayah.com	TRUE	/	FALSE	1999999999	wordpresspass_c5218f1ce1b5d5317e6a3d08db7a213b	+
+web.derayah.com	TRUE	/	FALSE	1999999999	DER65000	521341706.20480.0000
+

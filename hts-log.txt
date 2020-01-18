@@ -1,0 +1,90 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 18 Jan 2020 14:45:46 at http://www.derayah.com/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y http://www.derayah.com/ -O1 "C:\My Web Sites\derayaht" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+14:47:53	Error: 	"Not Found" (404) at link www.derayah.com/css/irotate.css (from www.derayah.com/)
+14:47:53	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from web.derayah.com/ar/)
+14:49:03	Error: 	"Error when decompressing" (-1) at link web.derayah.com/ar/products/صناديق-دراية-للتطوير-العقاري/ (from web.derayah.com/ar/)
+14:51:55	Error: 	"Not Found" (404) at link www.derayah.com/css/slider.png (from www.derayah.com/css/redirect.css)
+14:51:55	Warning: 	Moved Permanently for web.derayah.com/ar/?p=352
+14:51:55	Warning: 	File has moved from web.derayah.com/ar/?p=352 to http://web.derayah.com/ar/investments-products/
+14:51:55	Warning: 	Moved Permanently for web.derayah.com/ar/?p=71
+14:51:55	Warning: 	File has moved from web.derayah.com/ar/?p=71 to http://web.derayah.com/ar/mutual-fund-supermarket/
+14:51:55	Warning: 	Moved Permanently for web.derayah.com/ar/?p=768
+14:51:55	Warning: 	File has moved from web.derayah.com/ar/?p=768 to http://web.derayah.com/ar/assets-management/
+14:51:55	Warning: 	Moved Permanently for web.derayah.com/ar/?p=2584
+14:51:55	Warning: 	File has moved from web.derayah.com/ar/?p=2584 to http://web.derayah.com/ar/products/derayah-income-generating-funds/
+14:51:55	Warning: 	Moved Permanently for web.derayah.com/ar/?p=2543
+14:51:55	Warning: 	File has moved from web.derayah.com/ar/?p=2543 to http://web.derayah.com/ar/products/derayah-ipo-fund/
+14:51:55	Warning: 	Moved Permanently for web.derayah.com/ar/?p=21
+14:51:55	Warning: 	File has moved from web.derayah.com/ar/?p=21 to http://web.derayah.com/ar/products/derayah-free-style-fund/
+14:51:55	Warning: 	Moved Permanently for web.derayah.com/ar/?p=534
+14:51:55	Warning: 	File has moved from web.derayah.com/ar/?p=534 to http://web.derayah.com/ar/trade/
+14:51:55	Warning: 	Moved Permanently for web.derayah.com/ar/?p=559
+14:51:55	Warning: 	File has moved from web.derayah.com/ar/?p=559 to http://web.derayah.com/ar/platforms/derayah-platform/
+14:51:55	Warning: 	Moved Permanently for web.derayah.com/ar/?p=580
+14:51:55	Warning: 	File has moved from web.derayah.com/ar/?p=580 to http://web.derayah.com/ar/platforms/derayah-global-platform/
+14:51:55	Warning: 	Moved Permanently for web.derayah.com/ar/?p=586
+14:51:55	Warning: 	File has moved from web.derayah.com/ar/?p=586 to http://web.derayah.com/ar/prices-fees/
+14:51:55	Warning: 	Moved Permanently for web.derayah.com/ar/?p=925
+14:51:55	Warning: 	File has moved from web.derayah.com/ar/?p=925 to http://web.derayah.com/ar/compare-derayah-others/
+14:51:55	Warning: 	Moved Permanently for web.derayah.com/ar/?p=666
+14:51:55	Warning: 	File has moved from web.derayah.com/ar/?p=666 to http://web.derayah.com/ar/margins/
+14:51:55	Warning: 	Moved Permanently for web.derayah.com/ar/?p=241
+14:51:55	Warning: 	File has moved from web.derayah.com/ar/?p=241 to http://web.derayah.com/ar/margin/murabaha-margin/
+14:51:55	Warning: 	Moved Permanently for web.derayah.com/ar/?p=239
+14:51:55	Warning: 	File has moved from web.derayah.com/ar/?p=239 to http://web.derayah.com/ar/margin/free-margin-trading/
+14:51:55	Warning: 	Moved Permanently for web.derayah.com/ar/?p=240
+14:51:55	Warning: 	File has moved from web.derayah.com/ar/?p=240 to http://web.derayah.com/ar/margin/free-margin/
+14:51:55	Warning: 	Moved Permanently for web.derayah.com/ar/?p=1124
+14:51:55	Warning: 	File has moved from web.derayah.com/ar/?p=1124 to http://web.derayah.com/ar/important-concepts/
+14:51:55	Warning: 	Moved Permanently for web.derayah.com/ar/?p=277
+14:51:55	Warning: 	File has moved from web.derayah.com/ar/?p=277 to http://web.derayah.com/ar/contact-us/
+14:52:00	Warning: 	Moved Permanently for web.derayah.com/ar/?p=268
+14:52:00	Warning: 	File has moved from web.derayah.com/ar/?p=268 to http://web.derayah.com/ar/about-us/
+14:52:00	Warning: 	Moved Permanently for web.derayah.com/ar/?p=1011
+14:52:00	Warning: 	File has moved from web.derayah.com/ar/?p=1011 to http://web.derayah.com/ar/login/
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/?p=738 (from web.derayah.com/ar/board-of-directors/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fweb.derayah.com%2Far%2Fboard-of-directors%2F&format=xml (from web.derayah.com/ar/board-of-directors/)
+14:52:01	Error: 	"Error when decompressing" (-1) at link web.derayah.com/ar/board/طه-بن-عبدالله-القويز/ (from web.derayah.com/ar/board-of-directors/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/board/abdulrahman-m-alrashed/ (from web.derayah.com/ar/board-of-directors/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/board/fahad-bin-saad-alsaud/ (from web.derayah.com/ar/board-of-directors/)
+14:52:01	Error: 	"Error when decompressing" (-1) at link web.derayah.com/ar/board/زكي-الشويعر/ (from web.derayah.com/ar/board-of-directors/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/board/khalid-m-abalkhail/ (from web.derayah.com/ar/board-of-directors/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/board/faris-alrashed-alhumaid/ (from web.derayah.com/ar/board-of-directors/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/board/ibrahim-a-aljammaz/ (from web.derayah.com/ar/board-of-directors/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/?p=716 (from web.derayah.com/ar/management-team/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fweb.derayah.com%2Far%2Fmanagement-team%2F (from web.derayah.com/ar/management-team/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fweb.derayah.com%2Far%2Fmanagement-team%2F&format=xml (from web.derayah.com/ar/management-team/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/management/mohammed-alshammasi/ (from web.derayah.com/ar/management-team/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/management/emad-a-neqresh/ (from web.derayah.com/ar/management-team/)
+14:52:01	Error: 	"Error when decompressing" (-1) at link web.derayah.com/ar/management/بلال-بشناق/ (from web.derayah.com/ar/management-team/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/management/hossam-badr/ (from web.derayah.com/ar/management-team/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/management/bassam-noor/ (from web.derayah.com/ar/management-team/)
+14:52:01	Error: 	"Error when decompressing" (-1) at link web.derayah.com/ar/management/محمد-النهاش/ (from web.derayah.com/ar/management-team/)
+14:52:01	Error: 	"Error when decompressing" (-1) at link web.derayah.com/ar/management/مشعل-الحقباني/ (from web.derayah.com/ar/management-team/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/?p=1066 (from web.derayah.com/ar/resarch/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fweb.derayah.com%2Far%2Fresarch%2F (from web.derayah.com/ar/resarch/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fweb.derayah.com%2Far%2Fresarch%2F&format=xml (from web.derayah.com/ar/resarch/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/?p=699 (from web.derayah.com/ar/faq/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fweb.derayah.com%2Far%2Ffaq%2F (from web.derayah.com/ar/faq/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fweb.derayah.com%2Far%2Ffaq%2F&format=xml (from web.derayah.com/ar/faq/)
+14:52:01	Error: 	"Error when decompressing" (-1) at link web.derayah.com/ar/ufaqs/ما-معني-دراية؟/ (from web.derayah.com/ar/faq/)
+14:52:01	Error: 	"Error when decompressing" (-1) at link web.derayah.com/ar/ufaqs/كم-عدد-الأسواق-المتاحة-لي-ويمكنني-التد/ (from web.derayah.com/ar/faq/)
+14:52:01	Error: 	"Error when decompressing" (-1) at link web.derayah.com/ar/ufaqs/هل-شركة-دراية-مرخص-لها؟/ (from web.derayah.com/ar/faq/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/?p=644 (from web.derayah.com/ar/featured-blog/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fweb.derayah.com%2Far%2Ffeatured-blog%2F (from web.derayah.com/ar/featured-blog/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fweb.derayah.com%2Far%2Ffeatured-blog%2F&format=xml (from web.derayah.com/ar/featured-blog/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/?p=270 (from web.derayah.com/ar/careers/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fweb.derayah.com%2Far%2Fcareers%2F (from web.derayah.com/ar/careers/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fweb.derayah.com%2Far%2Fcareers%2F&format=xml (from web.derayah.com/ar/careers/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/?p=209 (from web.derayah.com/ar/clients-support/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fweb.derayah.com%2Far%2Fclients-support%2F (from web.derayah.com/ar/clients-support/)
+14:52:01	Error: 	"Forbidden" (403) at link web.derayah.com/ar/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fweb.derayah.com%2Far%2Fclients-support%2F&format=xml (from web.derayah.com/ar/clients-support/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 6 minutes 15 seconds : 372 links scanned, 309 files written (10480958 bytes overall) [8062345 bytes received at 21499 bytes/sec], 3202829 bytes transferred using HTTP compression in 75 files, ratio 16%, 5.8 requests per connection
+(41 errors, 38 warnings, 0 messages)
